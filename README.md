@@ -10,6 +10,6 @@ The label 0 represents a person that isn't wearing the mask properly and the lab
 The task is to build a binary classifier so that given a face image of a person, decide whether the person in the image
 is wearing a mask in a propere way or not.
 <br><br>
-The NN is ResNet18 using Adam optimizer. 
+The NN is ResNet18 using Adam optimizer.<br> 
 The Train.py contains calculations of the following rates for the train and test as a function of ephocs - F1, CE loss.
 There is also a ROC-AUC in visualizations.py. 
